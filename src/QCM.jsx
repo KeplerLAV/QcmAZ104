@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from "react"
 import "./qcm.scss"
-import questionsData from "./az104_questions_200.json"
+import questionsData from "./QCM.json"
 
 // Mélange Fisher–Yates
 function shuffleArray(arr) {
